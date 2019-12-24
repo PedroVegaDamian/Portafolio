@@ -185,7 +185,7 @@ header .boton{
 .fondo{
     height: 900px;
     position: relative;
-    background-image: url(https://www.elsetge.cat/myimg/f/3-35093_user-generated-contentinsertion-point-counter-strike-global-offensive.jpg);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwPIpRgA445E4EWjh1zgPPR36q0jt5-UVpgA-Nth1aZORV7oSR);
     overflow: hidden;
     background-attachment: fixed;
     background-position: center;
@@ -231,8 +231,7 @@ header .boton{
 }
 
 .cliente img{
-    /* width: 100%; */
-    width: auto;
+    width: 100%;
 }
 
 footer{
